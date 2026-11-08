@@ -6,7 +6,7 @@ Apasionado por la inteligencia artificial, el análisis de datos, la transformac
 ---
 
 ## 🎓 Formación y Destacados
-- 📚 **Educación:** Doble Grado en Matemáticas e Ingeniería Informática (UCM) | Nota media: 7.86
+- 📚 **Educación:** Doble Grado en Matemáticas e Ingeniería Informática (UCM)
 - 🌍 **Idiomas:** Español (Nativo) | Inglés (C2 Proficiency - Cambridge)
 - 💡 **Intereses:** IA, desarrollo de software, emprendimiento y optimización de datos.
 
