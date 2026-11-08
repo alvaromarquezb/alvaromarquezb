@@ -13,7 +13,7 @@ Apasionado por la inteligencia artificial, el análisis de datos, la transformac
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** Python, C++, Java, Ensamblador, Haskell
+- **Lenguajes:** Python, C++, Java, SQL, Ensamblador, Haskell
 - **Control de versiones y entornos:** Git, GitHub
 - **Productividad:** MS Office, Google Workspace
 
